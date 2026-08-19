@@ -21,13 +21,6 @@ that serve them.
 <table>
 <tr>
 <td width="50%" valign="top">
-
-**Deep Learning & Computer Vision**
-Training and deploying CNNs (EfficientNet) for real-world image classification tasks
-
-**LLM Applications**
-Integrating lightweight open models (Qwen) into applied products via Hugging Face Transformers
-
 </td>
 <td width="50%" valign="top">
 
@@ -76,21 +69,6 @@ Serving ML models through FastAPI, containerizing with Docker, deploying to the 
 
 ## 🚀 Featured Projects
 
-### 🌾 [AgriVision](https://github.com/Prakhar141205/AgriVision)
-AI-powered plant disease detection and agricultural guidance platform — combines computer vision and an LLM to turn a leaf photo into an actionable diagnosis.
-
-**Tech:** Python · PyTorch · TorchVision · Transformers · FastAPI · Docker
-
-**Highlights**
-- EfficientNet-B0 classifier trained on the PlantVillage dataset across 38 plant-disease classes
-- Qwen 2.5 0.5B-Instruct generates context-aware farming recommendations from predictions
-- Disease knowledge explorer API alongside local, cloud-independent inference
-- Environment-based configuration for portable deployment
-
-[View Repository →](https://github.com/Prakhar141205/AgriVision)
-
----
-
 ### ⚙️ [Vehicle Insurance MLOps Pipeline](https://github.com/Prakhar141205/Vehicle-Insurance-ML-Production-MLOps-Pipeline)
 A production-style ML pipeline for insurance claim prediction — built to demonstrate ML *engineering*, not just model training.
 
@@ -119,21 +97,6 @@ A generalized Transformer architecture implemented from scratch in PyTorch, insp
 [View Repository →](https://github.com/Prakhar141205/Transformer-Implementation-)
 
 ---
-
-### 🗺️ [Shortest Path Navigator](https://github.com/Prakhar141205/Shortest-Path-Navigator)
-A GPS-style navigation system that computes shortest paths using Dijkstra's algorithm — a Data Structures & Algorithms deep dive.
-
-**Tech:** C++ · STL
-
-**Highlights**
-- Graph modeled with adjacency lists; roads as weighted edges
-- Priority-queue (min-heap) based Dijkstra implementation — O((V + E) log V)
-- Modular, object-oriented C++ design
-
-[View Repository →](https://github.com/Prakhar141205/Shortest-Path-Navigator)
-
-<br>
-
 ### More Projects
 
 | Project | Description |
@@ -178,15 +141,6 @@ DSA  →  Machine Learning  →  Deep Learning  →  Transformers  →  LLM Appl
 
 Currently deepening understanding of MLOps and production deployment patterns,
 and building toward more applied LLM systems.
-
-<br>
-
-## 📊 GitHub Stats
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Prakhar141205&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakhar141205&layout=compact&hide_border=true" />
-</div>
 
 <br>
 
